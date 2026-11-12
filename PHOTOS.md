@@ -10,8 +10,8 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 
 ## Gaps to fill
 - Rose Bowl Hide Away now has 3 photos (was 1) — still the thinnest room; fill more from TJ's originals when available.
-- #32 (film crew on terrace) is NOT a marketing shot — do not use on the website.
-- #36 is a hillside near the hotel, not the property itself.
+- #32 (film crew on terrace) IS a marketing shot — TJ (Nov 12, 2026): the property is also a film/TV shooting location, and the crew shot sells the Hollywood feeling. Include in production.
+- #36 (hillside) IS used — TJ (Nov 12, 2026): it illustrates the view out to the ocean. Include in production.
 
 ## Photos (63)
 
@@ -49,7 +49,7 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `exterior/29-trip-exterior-stairs.webp` | Exterior | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/29-trip-exterior-stairs.webp |
 | `terrace-views/30-trip-loggia-arches.jpg` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/30-trip-loggia-arches.jpg |
 | `terrace-views/31-trip-garden-dusk-umbrella.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/31-trip-garden-dusk-umbrella.webp |
-| `other/32-trip-film-crew-on-terrace.webp` | Common areas | public | No | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/32-trip-film-crew-on-terrace.webp |
+| `other/32-trip-film-crew-on-terrace.webp` | Common areas | film crew shooting on the terrace — property is a film/TV shooting location (TJ, Nov 12) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/32-trip-film-crew-on-terrace.webp |
 | `terrace-views/33-trip-loggia.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/33-trip-loggia.webp |
 | `terrace-views/34-trip-chiminea-sunset.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/34-trip-chiminea-sunset.webp |
 | `terrace-views/35-trip-sunset-lawn.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/35-trip-sunset-lawn.webp |
