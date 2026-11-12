@@ -126,6 +126,7 @@ Total: 63 production photos.
 | P-42 | [exterior-fountain-closeup-petunias.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-fountain-closeup-petunias.jpg) | 2566×3200 | retouch(WARM)+upscale | `exterior/exterior-fountain-closeup-petunias.jpg` |
 | | _note: faithful; source is a shallow-focus close-up by design - foreground petunias stay soft as in original, carved tile detail cleaned_ | | | |
 | P-43 | [exterior-stairwell-white-walls-driveway.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-stairwell-white-walls-driveway.jpg) | 3200×2000 | retouch(WARM)+upscale | `exterior/exterior-stairwell-white-walls-driveway.jpg` |
+| | _TJ note (Nov 12): the stairwell shot looking down toward the driveway — "doesn't seem to add much." Flagged NOT for website use; file and P-43 number kept so references stay stable._ | | | | |
 | | _note: faithful; bougainvillea colour and tile treads preserved_ | | | |
 
 ## other — Living Spaces & Bathrooms
