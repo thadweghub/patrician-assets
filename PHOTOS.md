@@ -13,7 +13,7 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 - #32 (film crew on terrace) is NOT a marketing shot — do not use on the website.
 - #36 is a hillside near the hotel, not the property itself.
 
-## Photos (59)
+## Photos (63)
 
 | File | Room / Area | What it shows | Use on website? | Direct URL |
 |---|---|---|---|---|
@@ -33,28 +33,28 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `zen-garden/13-trip-zen-garden-twin-bed-desk.webp` | Zen Garden | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/zen-garden/13-trip-zen-garden-twin-bed-desk.webp |
 | `route-66/14-trip-route-66-queen-bed-dresser.webp` | Route 66 | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/14-trip-route-66-queen-bed-dresser.webp |
 | `other/15-trip-bathroom-bunk-beds.webp` | Common areas | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/15-trip-bathroom-bunk-beds.webp |
-| `other/16-trip-bathroom.webp` | Common areas | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/16-trip-bathroom.webp |
+| `other/16-trip-bathroom.jpg` | Common areas | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/16-trip-bathroom.jpg |
 | `other/17-trip-spiral-staircase.webp` | Common areas | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/17-trip-spiral-staircase.webp |
 | `route-66/18-trip-route-66-queen-bed-rug.webp` | Route 66 | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/18-trip-route-66-queen-bed-rug.webp |
 | `other/19-trip-great-room.webp` | Common areas | featured | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/19-trip-great-room.webp |
 | `exterior/20-trip-villa-front.webp` | Exterior | featured | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/20-trip-villa-front.webp |
 | `exterior/21-trip-villa-lawn.webp` | Exterior | featured | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/21-trip-villa-lawn.webp |
-| `breakfast/22-trip-breakfast-table-set.webp` | Breakfast / Dining | featured | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/22-trip-breakfast-table-set.webp |
+| `breakfast/22-trip-breakfast-table-set.jpg` | Breakfast / Dining | featured | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/22-trip-breakfast-table-set.jpg |
 | `terrace-views/23-trip-garden-terrace-umbrella.webp` | Terrace / Views | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/23-trip-garden-terrace-umbrella.webp |
 | `terrace-views/24-trip-sunset-terrace-garden.webp` | Terrace / Views | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/24-trip-sunset-terrace-garden.webp |
-| `exterior/25-trip-driveway-stone-wall.webp` | Exterior | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/25-trip-driveway-stone-wall.webp |
+| `exterior/25-trip-driveway-stone-wall.jpg` | Exterior | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/25-trip-driveway-stone-wall.jpg |
 | `exterior/26-trip-villa-turret.webp` | Exterior | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/26-trip-villa-turret.webp |
 | `exterior/27-trip-fountain-patio.webp` | Exterior | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/27-trip-fountain-patio.webp |
 | `terrace-views/28-trip-terrace-patio.webp` | Terrace / Views | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/28-trip-terrace-patio.webp |
 | `exterior/29-trip-exterior-stairs.webp` | Exterior | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/29-trip-exterior-stairs.webp |
-| `terrace-views/30-trip-loggia-arches.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/30-trip-loggia-arches.webp |
+| `terrace-views/30-trip-loggia-arches.jpg` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/30-trip-loggia-arches.jpg |
 | `terrace-views/31-trip-garden-dusk-umbrella.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/31-trip-garden-dusk-umbrella.webp |
 | `other/32-trip-film-crew-on-terrace.webp` | Common areas | public | No | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/32-trip-film-crew-on-terrace.webp |
 | `terrace-views/33-trip-loggia.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/33-trip-loggia.webp |
 | `terrace-views/34-trip-chiminea-sunset.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/34-trip-chiminea-sunset.webp |
 | `terrace-views/35-trip-sunset-lawn.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/35-trip-sunset-lawn.webp |
 | `other/36-trip-hills-near-hotel.webp` | Common areas | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/36-trip-hills-near-hotel.webp |
-| `terrace-views/37-trip-sunset-clouds-lawn.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/37-trip-sunset-clouds-lawn.webp |
+| `terrace-views/37-trip-sunset-clouds-lawn.jpg` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/37-trip-sunset-clouds-lawn.jpg |
 | `other/38-trip-side-table-flowers.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/38-trip-side-table-flowers.webp |
 | `other/39-trip-great-room-fireplace.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/39-trip-great-room-fireplace.webp |
 | `breakfast/40-trip-dining-room.webp` | Breakfast / Dining | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/40-trip-dining-room.webp |
@@ -78,6 +78,11 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `activities/activities-land-view-purple-dusk-city-lights.jpg` | Activities | land view — purple-orange dusk, garden and city lights below (3840x2880) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/activities/activities-land-view-purple-dusk-city-lights.jpg |
 
 
+| `terrace-views/loggia-arches-corridor-plant.jpg` | Terrace / Views | loggia arches corridor with potted plant, French doors (2880x1814) — added Nov 12 from Expedia Partner Central | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/loggia-arches-corridor-plant.jpg |
+| `terrace-views/sunset-lawn-fullres.jpg` | Terrace / Views | sunset over hills, manicured lawn, garden hedges, square (2880x2880) — full-res version added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/sunset-lawn-fullres.jpg |
+| `terrace-views/sunset-terrace-garden-fullres.jpg` | Terrace / Views | sunset over hills from the garden terrace (3840x2880) — full-res version added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/sunset-terrace-garden-fullres.jpg |
+| `route-66/route-66-queen-bed-mirror-dresser-fullres.jpg` | Route 66 | queen bed side view, arched mirror over carved dresser (3840x2160) — full-res version added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/route-66-queen-bed-mirror-dresser-fullres.jpg |
+
 ## Videos
 
 | File / Link | Room / Area | What it shows | Use on website? |
@@ -92,7 +97,7 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 - other/ — 13
 - pashas-paradise/ — 7
 - rose-bowl-hide-away/ — 3
-- route-66/ — 5
-- terrace-views/ — 11
+- route-66/ — 6
+- terrace-views/ — 14
 - zen-garden/ — 4
-- **Total: 59 photos** (42 original + 17 added Nov 12, 2026 from Expedia Partner Central)
+- **Total: 63 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central; 5 low-res .webp files replaced by full-res .jpg originals)
