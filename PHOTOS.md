@@ -9,11 +9,11 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 3. Videos: GitHub web upload caps at 25 MB per file. Drone videos over 25 MB go to YouTube (unlisted) instead — put the YouTube link in the Videos table below, not the file here.
 
 ## Gaps to fill
-- Rose Bowl Hide Away has only 1 photo — fill first, ideally from TJ's originals.
+- Rose Bowl Hide Away now has 3 photos (was 1) — still the thinnest room; fill more from TJ's originals when available.
 - #32 (film crew on terrace) is NOT a marketing shot — do not use on the website.
 - #36 is a hillside near the hotel, not the property itself.
 
-## Photos (42)
+## Photos (59)
 
 | File | Room / Area | What it shows | Use on website? | Direct URL |
 |---|---|---|---|---|
@@ -59,6 +59,24 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `other/39-trip-great-room-fireplace.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/39-trip-great-room-fireplace.webp |
 | `breakfast/40-trip-dining-room.webp` | Breakfast / Dining | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/40-trip-dining-room.webp |
 | `other/41-trip-living-room-fireplace.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/41-trip-living-room-fireplace.webp |
+| `rose-bowl-hide-away/rose-bowl-hide-away-desk-mirror-dresser.jpg` | Rose Bowl Hide Away | desk, ornate mirror, dresser with rolled towels (3840x2160) — added Nov 12 from Expedia Partner Central | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/rose-bowl-hide-away/rose-bowl-hide-away-desk-mirror-dresser.jpg |
+| `rose-bowl-hide-away/rose-bowl-hide-away-queen-bed-desk-mirror-bay-window.jpg` | Rose Bowl Hide Away | queen bed, roll-top desk, ornate mirror, bay windows (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/rose-bowl-hide-away/rose-bowl-hide-away-queen-bed-desk-mirror-bay-window.jpg |
+| `route-66/route-66-desk-armoire-mirror.jpg` | Route 66 | roll-top desk, carved armoire, mirrored closet door (3840x2160) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/route-66-desk-armoire-mirror.jpg |
+| `route-66/route-66-arched-mirror-dresser-portrait.jpg` | Route 66 | arched mirror and dresser with rolled towels, bed corner, portrait (2160x3840) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/route-66-arched-mirror-dresser-portrait.jpg |
+| `pashas-paradise/pashas-paradise-bathroom-double-vanity-tub-shower.jpg` | Pasha's Paradise | bathroom, marble double vanity, tub and glass shower, portrait (1898x3237) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-bathroom-double-vanity-tub-shower.jpg |
+| `pashas-paradise/pashas-paradise-fireplace-sitting-area.jpg` | Pasha's Paradise | fireplace sitting area, mosaic tapestry, Moroccan lanterns (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-fireplace-sitting-area.jpg |
+| `pashas-paradise/pashas-paradise-sitting-area-leather-sofas-fireplace.jpg` | Pasha's Paradise | sitting area, brown leather sofas, fireplace, tapestry (3840x2160) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-sitting-area-leather-sofas-fireplace.jpg |
+| `pashas-paradise/pashas-paradise-canopy-bed-reeds-vase.jpg` | Pasha's Paradise | canopy bed from foot, tassel valance, vase of reeds (3840x2160) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-canopy-bed-reeds-vase.jpg |
+| `zen-garden/zen-garden-twin-beds-desk-gallery-wall.jpg` | Zen Garden | twin beds, desk, gallery wall of framed pictures, portrait (2448x3264) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/zen-garden/zen-garden-twin-beds-desk-gallery-wall.jpg |
+| `zen-garden/zen-garden-view-from-room-lawn.jpg` | Zen Garden | view from room — garden lawn, hedges, loggia (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/zen-garden/zen-garden-view-from-room-lawn.jpg |
+| `exterior/exterior-stairwell-white-walls-driveway.jpg` | Exterior | stairwell between white stucco walls, bougainvillea (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/exterior-stairwell-white-walls-driveway.jpg |
+| `exterior/exterior-fountain-closeup-petunias.jpg` | Exterior | fountain close-up with pink/purple petunias, portrait (2880x3594) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/exterior-fountain-closeup-petunias.jpg |
+| `other/interior-entrance-dark-door-cabinet-puppet.jpg` | Common areas | interior entrance — dark door with sun ironwork, cabinet with marionette, red chair (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/interior-entrance-dark-door-cabinet-puppet.jpg |
+| `activities/activities-hiking-stone-path-ivy-walls.jpg` | Activities | hiking — flagstone trail between ivy-covered stone walls (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/activities/activities-hiking-stone-path-ivy-walls.jpg |
+| `activities/activities-hiking-flagstone-trail-pines.jpg` | Activities | hiking — flagstone trail past ivy wall, tall pines (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/activities/activities-hiking-flagstone-trail-pines.jpg |
+| `activities/activities-hiking-dirt-path-stone-wall-pines.jpg` | Activities | hiking — dirt trail beside stone wall under pines (2880x1814) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/activities/activities-hiking-dirt-path-stone-wall-pines.jpg |
+| `activities/activities-land-view-purple-dusk-city-lights.jpg` | Activities | land view — purple-orange dusk, garden and city lights below (3840x2880) — added Nov 12 | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/activities/activities-land-view-purple-dusk-city-lights.jpg |
+
 
 ## Videos
 
@@ -68,11 +86,13 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 
 ## Counts
 
+- activities/ — 4
 - breakfast/ — 3
-- exterior/ — 7
-- other/ — 12
-- pashas-paradise/ — 3
-- rose-bowl-hide-away/ — 1
-- route-66/ — 3
+- exterior/ — 9
+- other/ — 13
+- pashas-paradise/ — 7
+- rose-bowl-hide-away/ — 3
+- route-66/ — 5
 - terrace-views/ — 11
-- zen-garden/ — 2
+- zen-garden/ — 4
+- **Total: 59 photos** (42 original + 17 added Nov 12, 2026 from Expedia Partner Central)
