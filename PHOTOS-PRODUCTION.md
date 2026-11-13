@@ -6,11 +6,14 @@ MOOD Pasha's Paradise / WARM exteriors), fidelity check against the original,
 faithful upscale to a 3200px long edge. Originals remain untouched in the repo
 root folders; these live under `production/`. URLs below are jsDelivr CDN links.
 
-**Reference numbers (P-01 … P-63)** match the production gallery exactly —
+**Reference numbers (P-01 … P-71)** match the production gallery exactly —
 use them to request adjustments ("fix P-23"). Order: sections as below,
-files alphabetical within each section.
+files alphabetical within each section (P-64 … P-71 appended at section ends
+so the original numbers never move).
 
-Total: 63 production photos.
+Total: 71 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
+photos via the Photo Intake form — 8 new; a 9th intake submission was an exact
+duplicate of P-65's photo and was filed once.)
 
 ## pashas-paradise — Pasha's Paradise
 
@@ -30,6 +33,10 @@ Total: 63 production photos.
 | | _note: faithful; warm moody grade, decor unchanged_ | | | |
 | P-07 | [pashas-paradise-sitting-area-leather-sofas-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-sitting-area-leather-sofas-fireplace.jpg) | 3200×1808 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-sitting-area-leather-sofas-fireplace.jpg` |
 | | _note: pilot_ | | | |
+| P-69 | [pashas-paradise-rose-petal-path-canopy-bed.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-rose-petal-path-canopy-bed.jpg) | 1808×3200 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-rose-petal-path-canopy-bed.jpg` |
+| | _note: faithful on second attempt — first MOOD retouch invented directional sunlight and hard shadows absent from the lamplit original and was rejected; second attempt kept the soft lamplight, petal path and blue/green hearts intact. Photo Intake submission 8 (TJ original, 2252×4000); closest existing library photo is dHash 106 away — a new shot, not a duplicate_ | | | | |
+| P-70 | [pashas-paradise-canopy-bed-rose-petals.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg) | 1910×3200 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg` |
+| | _note: faithful; carved headboard, Moroccan lanterns, petal ring and swirled throw unchanged, richer golden mood. Photo Intake submission 9 (TJ original, 2248×3724); closest existing library photo is dHash 104 away — a new shot_ | | | | |
 
 ## zen-garden — Zen Garden
 
@@ -104,6 +111,16 @@ Total: 63 production photos.
 | | _note: faithful; from full-res original of the 35 sunset-lawn scene_ | | | |
 | P-34 | [sunset-terrace-garden-fullres.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/sunset-terrace-garden-fullres.jpg) | 3200×2414 | retouch(WARM)+upscale | `terrace-views/sunset-terrace-garden-fullres.jpg` |
 | | _note: faithful; from full-res original of the 24 sunset terrace scene_ | | | |
+| P-65 | [terrace-sunrise-lawn-valley-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-sunrise-lawn-valley-view.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-sunrise-lawn-valley-view.jpg` |
+| | _note: faithful; sunrise band, hedges, string lights and valley view unchanged. Photo Intake submission 3 (TJ original, 4000×2252), filed in terrace-views per content (a view from the terrace lawn — the house is not pictured; TJ had also filed it under Exterior). Submission 5 was the identical file (same SHA-256) filed a second time under Common areas — filed once, here. Closest existing library photo is dHash 102 away — a new shot_ | | | | |
+| P-66 | [terrace-morning-lawn-hanging-chair.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-morning-lawn-hanging-chair.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-morning-lawn-hanging-chair.jpg` |
+| | _note: faithful; morning sun, hanging papasan chair, wet patio and contrail unchanged. Photo Intake submission 4 (TJ original, 4000×2252) — TJ left this one to Muse's judgment ("process it if it adds value"); KEPT: the hanging chair as the subject in morning light is a distinct, inviting shot (dHash 112 from its closest library match, 124–128 from P-65/P-71). Filed in terrace-views per content rather than Common areas_ | | | | |
+| P-67 | [terrace-garden-path-ocean-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-garden-path-ocean-view.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-garden-path-ocean-view.jpg` |
+| | _note: faithful; garden path, patio set, chiminea, hills and distant ocean unchanged. Photo Intake submission 6 (TJ original, 4000×2252); closest existing library photo is dHash 111 away — a new shot_ | | | | |
+| P-68 | [terrace-evening-string-lights-city-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-evening-string-lights-city-view.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-evening-string-lights-city-view.jpg` |
+| | _note: faithful; evening string lights, hanging chair, house arch and city lights unchanged. Photo Intake submission 7 (TJ original, 4000×2252); closest existing library photo is dHash 100 away — a new shot_ | | | | |
+| P-71 | [terrace-sunrise-patio-lawn.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-sunrise-patio-lawn.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-sunrise-patio-lawn.jpg` |
+| | _note: faithful; sunrise, sun position, lawn, hedges and hanging chair unchanged. Photo Intake submission 10 (TJ original, 4000×2252); closest existing library photo is dHash 108 away — a new shot, distinct from P-65/P-66 (pairwise dHash 124–128)_ | | | | |
 
 ## exterior — Exterior
 
@@ -128,6 +145,8 @@ Total: 63 production photos.
 | P-43 | [exterior-stairwell-white-walls-driveway.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-stairwell-white-walls-driveway.jpg) | 3200×2000 | retouch(WARM)+upscale | `exterior/exterior-stairwell-white-walls-driveway.jpg` |
 | | _TJ note (Nov 12): the stairwell shot looking down toward the driveway — "doesn't seem to add much." Flagged NOT for website use; file and P-43 number kept so references stay stable._ | | | | |
 | | _note: faithful; bougainvillea colour and tile treads preserved_ | | | |
+| P-64 | [exterior-sundown-lawn-string-lights.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-sundown-lawn-string-lights.jpg) | 3200×1829 | retouch(WARM)+upscale | `exterior/exterior-sundown-lawn-string-lights.jpg` |
+| | _note: faithful; sundown sky, lit string lights, tree swing, lawn and villa wall unchanged, warmer richer colour. Photo Intake submission 2 (TJ original, 3970×2268); closest existing library photo is dHash 105 away — a new shot_ | | | | |
 
 ## other — Living Spaces & Bathrooms
 
