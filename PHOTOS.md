@@ -90,6 +90,8 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `pashas-paradise/pashas-paradise-rose-petal-path-canopy-bed.jpg` | Pasha's Paradise | full room with rose petal path to the canopy bed — anniversary setup, portrait (2252x4000) — P-69, added Nov 12, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-rose-petal-path-canopy-bed.jpg |
 | `pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg` | Pasha's Paradise | canopy bed close-up — carved headboard, Moroccan lanterns, rose petal ring, newlywed setup (2248x3724) — P-70, added Nov 12, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg |
 | `terrace-views/terrace-sunrise-patio-lawn.jpg` | Terrace / Views | sunrise over the patio and lawn, valley view (4000x2252) — P-71, added Nov 12, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-sunrise-patio-lawn.jpg |
+| `other/lemon-drop-martini.jpg` | Members / Other | a handcrafted Lemon Drop martini in a cut-crystal glass, sugar rim and lemon twist — members' welcome drink imagery (1024x1024) — P-72, added Nov 13, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/lemon-drop-martini.jpg |
+| `other/lemon-drop-portrait-2018.jpg` | Members / Other | guest sipping a Lemon Drop, lemon garnish at her lips — 2018 location shoot at the property, model @x.kayla.o shot by @jamesfelixraw (1080x1080) — P-73, added Nov 13, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/lemon-drop-portrait-2018.jpg |
 
 ## Videos
 
@@ -102,10 +104,10 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 - activities/ — 4
 - breakfast/ — 3
 - exterior/ — 10
-- other/ — 13
+- other/ — 15
 - pashas-paradise/ — 9
 - rose-bowl-hide-away/ — 3
 - route-66/ — 6
 - terrace-views/ — 19
 - zen-garden/ — 4
-- **Total: 71 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals)
+- **Total: 73 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals; + 2 added Nov 13, 2026 via the Photo Intake form — the members' Lemon Drop imagery, P-72/P-73)
