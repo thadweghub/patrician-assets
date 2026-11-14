@@ -6,14 +6,15 @@ MOOD Pasha's Paradise / WARM exteriors), fidelity check against the original,
 faithful upscale to a 3200px long edge. Originals remain untouched in the repo
 root folders; these live under `production/`. URLs below are jsDelivr CDN links.
 
-**Reference numbers (P-01 … P-71)** match the production gallery exactly —
+**Reference numbers (P-01 … P-73)** match the production gallery exactly —
 use them to request adjustments ("fix P-23"). Order: sections as below,
-files alphabetical within each section (P-64 … P-71 appended at section ends
+files alphabetical within each section (P-64 … P-73 appended at section ends
 so the original numbers never move).
 
-Total: 71 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
+Total: 73 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
 photos via the Photo Intake form — 8 new; a 9th intake submission was an exact
-duplicate of P-65's photo and was filed once.)
+duplicate of P-65's photo and was filed once. P-72 … P-73 added Nov 13, 2026
+via the Photo Intake form — the members' Lemon Drop imagery.)
 
 ## pashas-paradise — Pasha's Paradise
 
@@ -178,6 +179,10 @@ duplicate of P-65's photo and was filed once.)
 | | _note: faithful; painting text preserved_ | | | |
 | P-56 | [interior-entrance-dark-door-cabinet-puppet.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/interior-entrance-dark-door-cabinet-puppet.jpg) | 3200×2000 | retouch(WARM)+upscale | `other/interior-entrance-dark-door-cabinet-puppet.jpg` |
 | | _note: faithful; marionette and ironwork door unchanged_ | | | |
+| P-72 | [lemon-drop-martini.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/lemon-drop-martini.jpg) | 3200×3200 | colour-only(WARM)+upscale | `other/lemon-drop-martini.jpg` |
+| | _note: members' Lemon Drop imagery (TJ's description: "Complimentary Members Lemon Drop martinis"); Grok render submitted by TJ as the artwork itself — no camera original exists; colour-only grade + faithful upscale, no generative retouch, nothing altered. Source 1024×1024. Filed in other/ per TJ (the intake form showed no Other basket; he filed under Exterior and authorised the move). Photo Intake submission 11_ | | | | |
+| P-73 | [lemon-drop-portrait-2018.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/lemon-drop-portrait-2018.jpg) | 3200×3200 | colour-only(WARM)+upscale | `other/lemon-drop-portrait-2018.jpg` |
+| | _note: members' Lemon Drop imagery — 2018 location shoot at the property (model @x.kayla.o, shot by @jamesfelixraw, Labor Day 2018; TJ's description: "Member rewards, personalized greeting and lemon drop martini welcome"). True photo; colour-only grade + faithful upscale — NO generative retouch, so the face is untouched. Source 1080×1080. Filed in other/ per TJ (as P-72). Photo Intake submission 12_ | | | | |
 
 ## breakfast — Breakfast & Dining
 
