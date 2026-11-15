@@ -6,15 +6,18 @@ MOOD Pasha's Paradise / WARM exteriors), fidelity check against the original,
 faithful upscale to a 3200px long edge. Originals remain untouched in the repo
 root folders; these live under `production/`. URLs below are jsDelivr CDN links.
 
-**Reference numbers (P-01 … P-73)** match the production gallery exactly —
+**Reference numbers (P-01 … P-81)** match the production gallery exactly —
 use them to request adjustments ("fix P-23"). Order: sections as below,
-files alphabetical within each section (P-64 … P-73 appended at section ends
+files alphabetical within each section (P-64 … P-81 appended at section ends
 so the original numbers never move).
 
-Total: 73 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
+Total: 81 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
 photos via the Photo Intake form — 8 new; a 9th intake submission was an exact
 duplicate of P-65's photo and was filed once. P-72 … P-73 added Nov 13, 2026
-via the Photo Intake form — the members' Lemon Drop imagery.)
+via the Photo Intake form — the members' Lemon Drop imagery. P-74 … P-81
+added Nov 14, 2026 via the Photo Intake form — 8 new; four earlier photos
+(P-03, P-27, P-51, P-54) were upgraded to full-res TJ originals the same day,
+and one further submission was a watermarked duplicate of P-29, not filed.)
 
 ## pashas-paradise — Pasha's Paradise
 
@@ -25,7 +28,7 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | P-02 | [07-expedia-pashas-paradise-queen-bed-sofa.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/07-expedia-pashas-paradise-queen-bed-sofa.jpg) | 3200×1673 | retouch(MOOD)+upscale | `pashas-paradise/07-expedia-pashas-paradise-queen-bed-sofa.jpg` |
 | | _note: faithful; warm grade, room layout and decor unchanged_ | | | |
 | P-03 | [11-expedia-pashas-paradise-canopy-bed.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg) | 3200×1808 | retouch(MOOD)+upscale | `pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg` |
-| | _note: pilot_ | | | |
+| | _note: pilot. UPGRADED Nov 14, 2026: TJ's camera original (4032×2268, Photo Intake submission 14, dHash 1 from the previous original) replaced the 3840×2160 Expedia source at the same repo path; production re-run — first MOOD pass invented directional sunlight and was rejected, second pass faithful_ | | | |
 | P-04 | [pashas-paradise-bathroom-double-vanity-tub-shower.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-bathroom-double-vanity-tub-shower.jpg) | 1890×3200 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-bathroom-double-vanity-tub-shower.jpg` |
 | | _note: faithful; warm grade on bathroom, layout unchanged_ | | | |
 | P-05 | [pashas-paradise-canopy-bed-reeds-vase.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-canopy-bed-reeds-vase.jpg) | 3200×1808 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-canopy-bed-reeds-vase.jpg` |
@@ -38,6 +41,12 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: faithful on second attempt — first MOOD retouch invented directional sunlight and hard shadows absent from the lamplit original and was rejected; second attempt kept the soft lamplight, petal path and blue/green hearts intact. Photo Intake submission 8 (TJ original, 2252×4000); closest existing library photo is dHash 106 away — a new shot, not a duplicate_ | | | | |
 | P-70 | [pashas-paradise-canopy-bed-rose-petals.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg) | 1910×3200 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-canopy-bed-rose-petals.jpg` |
 | | _note: faithful; carved headboard, Moroccan lanterns, petal ring and swirled throw unchanged, richer golden mood. Photo Intake submission 9 (TJ original, 2248×3724); closest existing library photo is dHash 104 away — a new shot_ | | | | |
+| P-74 | [pashas-paradise-canopy-bed-close-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-canopy-bed-close-view.jpg) | 3200×1808 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-canopy-bed-close-view.jpg` |
+| | _note: faithful; carved headboard, tapestry canopy and textiles unchanged, warm golden grade. Photo Intake submission 13 (TJ original, 4032×2268); closest existing library photo is P-05 at dHash 97 — a new, closer view of the canopy bed, not a duplicate_ | | | |
+| P-75 | [pashas-paradise-suite-bed-fireplace-chair.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-suite-bed-fireplace-chair.jpg) | 3200×1808 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-suite-bed-fireplace-chair.jpg` |
+| | _note: faithful; canopy bed, arched fireplace niche and leather chair unchanged. Photo Intake submission 15 (TJ original, 3976×2237); closest existing library photo is P-47 at dHash 100 — a new shot_ | | | |
+| P-76 | [pashas-paradise-full-suite-sofa-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/pashas-paradise/pashas-paradise-full-suite-sofa-view.jpg) | 2379×3200 | retouch(MOOD)+upscale | `pashas-paradise/pashas-paradise-full-suite-sofa-view.jpg` |
+| | _note: faithful; full suite from the sofa — bed, sitting area and tapestry unchanged, portrait. Photo Intake submission 16 (TJ original, 2568×3476); closest existing library photo is P-38 at dHash 98 — a new shot_ | | | |
 
 ## zen-garden — Zen Garden
 
@@ -96,8 +105,8 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: faithful; daylight sky warmed to golden hour_ | | | |
 | P-26 | [30-trip-loggia-arches.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/30-trip-loggia-arches.jpg) | 3200×2000 | retouch(WARM)+upscale | `terrace-views/30-trip-loggia-arches.jpg` |
 | | _note: faithful; from full-res Partner Central source; sky warmed_ | | | |
-| P-27 | [31-trip-garden-dusk-umbrella.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/31-trip-garden-dusk-umbrella.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/31-trip-garden-dusk-umbrella.webp` |
-| | _note: faithful dusk scene, path lights and city lights preserved_ | | | |
+| P-27 | [31-trip-garden-dusk-umbrella.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/31-trip-garden-dusk-umbrella.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/31-trip-garden-dusk-umbrella.jpg` |
+| | _note: faithful dusk scene, path lights and city lights preserved. UPGRADED Nov 14, 2026: TJ's full-res original (4032×2268, Photo Intake submission 25, dHash 3) replaced the 2000×1125 webp; production re-run — first WARM pass turned dusk into a golden sunset and was rejected, second pass kept the twilight_ | | | |
 | P-28 | [33-trip-loggia.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/33-trip-loggia.jpg) | 3200×2414 | retouch(WARM)+upscale | `terrace-views/33-trip-loggia.webp` |
 | | _note: faithful; photographer reflection artifact at right edge cleaned out_ | | | |
 | P-29 | [34-trip-chiminea-sunset.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/34-trip-chiminea-sunset.jpg) | 1808×3200 | retouch(WARM)+upscale | `terrace-views/34-trip-chiminea-sunset.webp` |
@@ -122,6 +131,12 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: faithful; evening string lights, hanging chair, house arch and city lights unchanged. Photo Intake submission 7 (TJ original, 4000×2252); closest existing library photo is dHash 100 away — a new shot_ | | | | |
 | P-71 | [terrace-sunrise-patio-lawn.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-sunrise-patio-lawn.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-sunrise-patio-lawn.jpg` |
 | | _note: faithful; sunrise, sun position, lawn, hedges and hanging chair unchanged. Photo Intake submission 10 (TJ original, 4000×2252); closest existing library photo is dHash 108 away — a new shot, distinct from P-65/P-66 (pairwise dHash 124–128)_ | | | | |
+| P-79 | [terrace-bluff-sunset-chiminea.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-bluff-sunset-chiminea.jpg) | 3200×2414 | retouch(WARM)+upscale | `terrace-views/terrace-bluff-sunset-chiminea.jpg` |
+| | _note: faithful; bluff terrace table, chiminea and hills unchanged, sunset sky enriched. Photo Intake submission 22 (TJ original, 4032×3024); closest existing library photo is P-69 at dHash 100 — a new shot. Filed in terrace-views per content (form folder was Exterior)_ | | | |
+| P-80 | [terrace-dawn-lawn-driveway-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-dawn-lawn-driveway-view.jpg) | 3200×1800 | colour-only+upscale | `terrace-views/terrace-dawn-lawn-driveway-view.jpg` |
+| | _note: colour-only grade — HDR pulled back gently at TJ's request, no generative retouch; dawn over the lawn and driveway unchanged. Photo Intake submission 23 (TJ original, 1778×1000); closest existing library photo is P-15 at dHash 104 — a new shot. 2014 WhatsApp-era file: below the usual 1800px intake floor but above the 800px hold line — processed, flagged low resolution. Filed in terrace-views per content (form folder was Exterior)_ | | | |
+| P-81 | [terrace-sunset-table-chiminea-view.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/terrace-views/terrace-sunset-table-chiminea-view.jpg) | 3200×1808 | retouch(WARM)+upscale | `terrace-views/terrace-sunset-table-chiminea-view.jpg` |
+| | _note: faithful; terrace table, chiminea and ocean view unchanged. Photo Intake submission 24 (TJ original, 4032×2268); TJ suspected a duplicate — closest existing library photo is P-48 at dHash 103, so it is a new shot. Filed in terrace-views per content (form folder was Exterior)_ | | | |
 
 ## exterior — Exterior
 
@@ -148,6 +163,8 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: faithful; bougainvillea colour and tile treads preserved_ | | | |
 | P-64 | [exterior-sundown-lawn-string-lights.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-sundown-lawn-string-lights.jpg) | 3200×1829 | retouch(WARM)+upscale | `exterior/exterior-sundown-lawn-string-lights.jpg` |
 | | _note: faithful; sundown sky, lit string lights, tree swing, lawn and villa wall unchanged, warmer richer colour. Photo Intake submission 2 (TJ original, 3970×2268); closest existing library photo is dHash 105 away — a new shot_ | | | | |
+| P-78 | [exterior-villa-loggia-fountain-dusk.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/exterior/exterior-villa-loggia-fountain-dusk.jpg) | 3200×1808 | retouch(WARM)+upscale | `exterior/exterior-villa-loggia-fountain-dusk.jpg` |
+| | _note: faithful; triple-arch loggia, fountain and string lights unchanged, dusk sky enriched. Photo Intake submission 21 (TJ original, 4608×2592); closest existing library photo is P-35 (the hero) at dHash 109 — a new shot; TJ marked it a hero candidate_ | | | |
 
 ## other — Living Spaces & Bathrooms
 
@@ -167,14 +184,14 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: faithful; richer wood tone; upscale OOM-killed twice under parallel load, succeeded on third attempt_ | | | |
 | P-50 | [19-trip-great-room.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/19-trip-great-room.jpg) | 3200×2133 | retouch(WARM)+upscale | `other/19-trip-great-room.webp` |
 | | _note: faithful; lit fire in fireplace reads slightly stronger than original, otherwise identical_ | | | |
-| P-51 | [32-trip-film-crew-on-terrace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/32-trip-film-crew-on-terrace.jpg) | 1890×3200 | retouch(WARM)+upscale | `other/32-trip-film-crew-on-terrace.webp` |
-| | _note: faithful; all people and equipment unchanged, warmer sunset colour_ | | | |
+| P-51 | [32-trip-film-crew-on-terrace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/32-trip-film-crew-on-terrace.jpg) | 1890×3200 | retouch(WARM)+upscale | `other/32-trip-film-crew-on-terrace.jpg` |
+| | _note: faithful; all people and equipment unchanged, warmer sunset colour. UPGRADED Nov 14, 2026: TJ's full-res original (2579×4354, Photo Intake submission 18, dHash 1) replaced the 1184×2000 webp; production re-run, faithful_ | | | |
 | P-52 | [36-trip-hills-near-hotel.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/36-trip-hills-near-hotel.jpg) | 3200×1808 | retouch(WARM)+upscale | `other/36-trip-hills-near-hotel.webp` |
 | | _note: faithful landscape; warmer golden tones_ | | | |
 | P-53 | [38-trip-side-table-flowers.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/38-trip-side-table-flowers.jpg) | 1808×3200 | retouch(WARM)+upscale | `other/38-trip-side-table-flowers.webp` |
 | | _note: faithful detail shot; cleaner colour_ | | | |
-| P-54 | [39-trip-great-room-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/39-trip-great-room-fireplace.jpg) | 3200×2202 | retouch(WARM)+upscale | `other/39-trip-great-room-fireplace.webp` |
-| | _note: faithful; painting text preserved_ | | | |
+| P-54 | [39-trip-great-room-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/39-trip-great-room-fireplace.jpg) | 3200×2202 | retouch(WARM)+upscale | `other/39-trip-great-room-fireplace.jpg` |
+| | _note: faithful; painting text preserved. UPGRADED Nov 14, 2026: TJ's full-res original (2832×1951, Photo Intake submission 19, dHash 3) replaced the 2000×1378 webp; production re-run, TULIPA lettering intact_ | | | |
 | P-55 | [41-trip-living-room-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/41-trip-living-room-fireplace.jpg) | 3200×1808 | retouch(WARM)+upscale | `other/41-trip-living-room-fireplace.webp` |
 | | _note: faithful; painting text preserved_ | | | |
 | P-56 | [interior-entrance-dark-door-cabinet-puppet.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/interior-entrance-dark-door-cabinet-puppet.jpg) | 3200×2000 | retouch(WARM)+upscale | `other/interior-entrance-dark-door-cabinet-puppet.jpg` |
@@ -183,6 +200,8 @@ via the Photo Intake form — the members' Lemon Drop imagery.)
 | | _note: members' Lemon Drop imagery (TJ's description: "Complimentary Members Lemon Drop martinis"); Grok render submitted by TJ as the artwork itself — no camera original exists; colour-only grade + faithful upscale, no generative retouch, nothing altered. Source 1024×1024. Filed in other/ per TJ (the intake form showed no Other basket; he filed under Exterior and authorised the move). Photo Intake submission 11_ | | | | |
 | P-73 | [lemon-drop-portrait-2018.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/lemon-drop-portrait-2018.jpg) | 3200×3200 | colour-only(WARM)+upscale | `other/lemon-drop-portrait-2018.jpg` |
 | | _note: members' Lemon Drop imagery — 2018 location shoot at the property (model @x.kayla.o, shot by @jamesfelixraw, Labor Day 2018; TJ's description: "Member rewards, personalized greeting and lemon drop martini welcome"). True photo; colour-only grade + faithful upscale — NO generative retouch, so the face is untouched. Source 1080×1080. Filed in other/ per TJ (as P-72). Photo Intake submission 12_ | | | | |
+| P-77 | [great-room-wide-doors-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/great-room-wide-doors-fireplace.jpg) | 3200×1808 | retouch(WARM)+upscale | `other/great-room-wide-doors-fireplace.jpg` |
+| | _note: faithful; fireplace, sofas and rustic wooden doors unchanged. Photo Intake submission 20 (TJ original, 4608×2592); closest existing library photo is P-56 at dHash 109 — a new shot_ | | | |
 
 ## breakfast — Breakfast & Dining
 

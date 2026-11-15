@@ -13,7 +13,7 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 - #32 (film crew on terrace) IS a marketing shot — TJ (Nov 12, 2026): the property is also a film/TV shooting location, and the crew shot sells the Hollywood feeling. Include in production.
 - #36 (hillside) IS used — TJ (Nov 12, 2026): it illustrates the view out to the ocean. Include in production.
 
-## Photos (71)
+## Photos (81)
 
 | File | Room / Area | What it shows | Use on website? | Direct URL |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `route-66/08-expedia-route-66-wooden-bed.jpg` | Route 66 | Route 66 Room - wooden bed desk rug fan | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/08-expedia-route-66-wooden-bed.jpg |
 | `breakfast/09-expedia-dining-room-venus-painting.jpg` | Breakfast / Dining | Hotels.com extra - dining/breakfast? | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/09-expedia-dining-room-venus-painting.jpg |
 | `terrace-views/10-expedia-loggia-fountain-view.jpg` | Terrace / Views | Hotels.com extra - terrace/nature? | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/10-expedia-loggia-fountain-view.jpg |
-| `pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg` | Pasha's Paradise | Hotels.com extra - premium sleep/bedding? | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg |
+| `pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg` | Pasha's Paradise | canopy bed, carved headboard (original upgraded to TJ's camera original 4032x2268 Nov 14, 2026 — P-03) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/11-expedia-pashas-paradise-canopy-bed.jpg |
 | `other/12-trip-bathroom-sink.webp` | Common areas | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/12-trip-bathroom-sink.webp |
 | `zen-garden/13-trip-zen-garden-twin-bed-desk.webp` | Zen Garden | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/zen-garden/13-trip-zen-garden-twin-bed-desk.webp |
 | `route-66/14-trip-route-66-queen-bed-dresser.webp` | Route 66 | rooms | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/route-66/14-trip-route-66-queen-bed-dresser.webp |
@@ -48,15 +48,15 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `terrace-views/28-trip-terrace-patio.webp` | Terrace / Views | exterior | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/28-trip-terrace-patio.webp |
 | `exterior/29-trip-exterior-stairs.webp` | Exterior | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/29-trip-exterior-stairs.webp |
 | `terrace-views/30-trip-loggia-arches.jpg` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/30-trip-loggia-arches.jpg |
-| `terrace-views/31-trip-garden-dusk-umbrella.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/31-trip-garden-dusk-umbrella.webp |
-| `other/32-trip-film-crew-on-terrace.webp` | Common areas | film crew shooting on the terrace — property is a film/TV shooting location (TJ, Nov 12) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/32-trip-film-crew-on-terrace.webp |
+| `terrace-views/31-trip-garden-dusk-umbrella.jpg` | Terrace / Views | garden at dusk — umbrella, string lights, path lights (full-res TJ original 4032x2268 replaced the 2000x1125 webp Nov 14, 2026 — P-27 upgrade) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/31-trip-garden-dusk-umbrella.jpg |
+| `other/32-trip-film-crew-on-terrace.jpg` | Common areas | film crew shooting on the terrace — property is a film/TV shooting location (TJ, Nov 12) (full-res TJ original 2579x4354 replaced the 1184x2000 webp Nov 14, 2026 — P-51 upgrade) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/32-trip-film-crew-on-terrace.jpg |
 | `terrace-views/33-trip-loggia.webp` | Terrace / Views | public | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/33-trip-loggia.webp |
 | `terrace-views/34-trip-chiminea-sunset.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/34-trip-chiminea-sunset.webp |
 | `terrace-views/35-trip-sunset-lawn.webp` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/35-trip-sunset-lawn.webp |
 | `other/36-trip-hills-near-hotel.webp` | Common areas | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/36-trip-hills-near-hotel.webp |
 | `terrace-views/37-trip-sunset-clouds-lawn.jpg` | Terrace / Views | near | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/37-trip-sunset-clouds-lawn.jpg |
 | `other/38-trip-side-table-flowers.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/38-trip-side-table-flowers.webp |
-| `other/39-trip-great-room-fireplace.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/39-trip-great-room-fireplace.webp |
+| `other/39-trip-great-room-fireplace.jpg` | Common areas | great room fireplace with TULIPA artwork (full-res TJ original 2832x1951 replaced the 2000x1378 webp Nov 14, 2026 — P-54 upgrade) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/39-trip-great-room-fireplace.jpg |
 | `breakfast/40-trip-dining-room.webp` | Breakfast / Dining | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/breakfast/40-trip-dining-room.webp |
 | `other/41-trip-living-room-fireplace.webp` | Common areas | other | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/41-trip-living-room-fireplace.webp |
 | `rose-bowl-hide-away/rose-bowl-hide-away-desk-mirror-dresser.jpg` | Rose Bowl Hide Away | desk, ornate mirror, dresser with rolled towels (3840x2160) — added Nov 12 from Expedia Partner Central | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/rose-bowl-hide-away/rose-bowl-hide-away-desk-mirror-dresser.jpg |
@@ -92,6 +92,14 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `terrace-views/terrace-sunrise-patio-lawn.jpg` | Terrace / Views | sunrise over the patio and lawn, valley view (4000x2252) — P-71, added Nov 12, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-sunrise-patio-lawn.jpg |
 | `other/lemon-drop-martini.jpg` | Members / Other | a handcrafted Lemon Drop martini in a cut-crystal glass, sugar rim and lemon twist — members' welcome drink imagery (1024x1024) — P-72, added Nov 13, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/lemon-drop-martini.jpg |
 | `other/lemon-drop-portrait-2018.jpg` | Members / Other | guest sipping a Lemon Drop, lemon garnish at her lips — 2018 location shoot at the property, model @x.kayla.o shot by @jamesfelixraw (1080x1080) — P-73, added Nov 13, 2026 via Photo Intake | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/lemon-drop-portrait-2018.jpg |
+| `pashas-paradise/pashas-paradise-canopy-bed-close-view.jpg` | Pasha's Paradise | canopy bed close view — carved headboard, tapestry canopy, patterned pillows (4032x2268) — P-74, added Nov 14, 2026 via Photo Intake (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-canopy-bed-close-view.jpg |
+| `pashas-paradise/pashas-paradise-suite-bed-fireplace-chair.jpg` | Pasha's Paradise | suite view — canopy bed, arched fireplace niche, leather chair (3976x2237) — P-75, added Nov 14, 2026 via Photo Intake (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-suite-bed-fireplace-chair.jpg |
+| `pashas-paradise/pashas-paradise-full-suite-sofa-view.jpg` | Pasha's Paradise | full suite from the sofa — bed, sitting area, tapestry, portrait (2568x3476) — P-76, added Nov 14, 2026 via Photo Intake (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-full-suite-sofa-view.jpg |
+| `other/great-room-wide-doors-fireplace.jpg` | Common areas | great room wide view — fireplace, sofas, rustic wooden doors (4608x2592) — P-77, added Nov 14, 2026 via Photo Intake (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/great-room-wide-doors-fireplace.jpg |
+| `exterior/exterior-villa-loggia-fountain-dusk.jpg` | Exterior | villa at dusk — triple-arch loggia, fountain patio, string lights (4608x2592) — P-78, added Nov 14, 2026 via Photo Intake (TJ's own photo); TJ marked it a hero candidate | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/exterior/exterior-villa-loggia-fountain-dusk.jpg |
+| `terrace-views/terrace-bluff-sunset-chiminea.jpg` | Terrace / Views | bluff terrace at sunset — table, chiminea, hills (4032x3024) — P-79, added Nov 14, 2026 via Photo Intake (TJ's own photo); filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-bluff-sunset-chiminea.jpg |
+| `terrace-views/terrace-dawn-lawn-driveway-view.jpg` | Terrace / Views | dawn over the lawn and driveway, valley view (1778x1000) — P-80, added Nov 14, 2026 via Photo Intake (TJ's own photo); 2014 WhatsApp-era file, low resolution, HDR pulled back at TJ's request; filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-dawn-lawn-driveway-view.jpg |
+| `terrace-views/terrace-sunset-table-chiminea-view.jpg` | Terrace / Views | terrace table and chiminea at sunset, ocean view (4032x2268) — P-81, added Nov 14, 2026 via Photo Intake (TJ's own photo); filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-sunset-table-chiminea-view.jpg |
 
 ## Videos
 
@@ -103,11 +111,11 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 
 - activities/ — 4
 - breakfast/ — 3
-- exterior/ — 10
-- other/ — 15
-- pashas-paradise/ — 9
+- exterior/ — 11
+- other/ — 16
+- pashas-paradise/ — 12
 - rose-bowl-hide-away/ — 3
 - route-66/ — 6
-- terrace-views/ — 19
+- terrace-views/ — 22
 - zen-garden/ — 4
-- **Total: 73 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals; + 2 added Nov 13, 2026 via the Photo Intake form — the members' Lemon Drop imagery, P-72/P-73)
+- **Total: 81 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals; + 2 added Nov 13, 2026 via the Photo Intake form — the members' Lemon Drop imagery, P-72/P-73; + 8 added Nov 14, 2026 via the Photo Intake form, TJ's own photos — P-74 … P-81; 4 earlier photos upgraded to full-res TJ originals the same day — P-03, P-27, P-51, P-54; 1 further intake submission was a watermarked duplicate of P-29 and was not filed)
