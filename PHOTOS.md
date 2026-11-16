@@ -100,22 +100,31 @@ Repo: https://github.com/thadweghub/patrician-assets — public. Direct URL patt
 | `terrace-views/terrace-bluff-sunset-chiminea.jpg` | Terrace / Views | bluff terrace at sunset — table, chiminea, hills (4032x3024) — P-79, added Nov 14, 2026 via Photo Intake (TJ's own photo); filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-bluff-sunset-chiminea.jpg |
 | `terrace-views/terrace-dawn-lawn-driveway-view.jpg` | Terrace / Views | dawn over the lawn and driveway, valley view (1778x1000) — P-80, added Nov 14, 2026 via Photo Intake (TJ's own photo); 2014 WhatsApp-era file, low resolution, HDR pulled back at TJ's request; filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-dawn-lawn-driveway-view.jpg |
 | `terrace-views/terrace-sunset-table-chiminea-view.jpg` | Terrace / Views | terrace table and chiminea at sunset, ocean view (4032x2268) — P-81, added Nov 14, 2026 via Photo Intake (TJ's own photo); filed by content (form tag was Exterior) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/terrace-views/terrace-sunset-table-chiminea-view.jpg |
+| `other/great-room-glass-dome-figure-chess.jpg` | Common areas | great room detail — pre-Columbian-style figure under a glass dome on a stone table, chess set, fireplace and French doors behind (2252x4000) — P-82, added Nov 15, 2026 via WhatsApp (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/great-room-glass-dome-figure-chess.jpg |
+| `other/carved-cabinet-tribal-artifacts.jpg` | Common areas | carved wooden cabinet with tribal artifacts on top — woven textile, silver coin belt and necklaces, red embroidered hanging (2252x4000) — P-83, added Nov 15, 2026 via WhatsApp (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/carved-cabinet-tribal-artifacts.jpg |
+| `other/bathroom-wayang-puppet-textured-walls.jpg` | Common areas | bathroom with textured gold plaster walls — wayang shadow puppet and winged figure on the wall, vanity, eucalyptus sprig (2252x4000) — P-84, added Nov 15, 2026 via WhatsApp (TJ's own photo); which bathroom is TJ's to confirm | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/bathroom-wayang-puppet-textured-walls.jpg |
+| `other/guest-book-inscription-sybil-press-2025.jpg` | Common areas | guest book inscription in a guest's hand, dated 5.18.2025, Sybil Press stamp — "Bless your Hospitality — Your Buddha-Nature Exudes + Showers onto your Guests + Your Guests Return Their Love" (2080x3018) — P-85, added Nov 15, 2026 via WhatsApp; transcription filed alongside in assets | No — testimonial text only | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/guest-book-inscription-sybil-press-2025.jpg |
+| `other/fireplace-floral-tapestry-wide.jpg` | Common areas | fireplace with an ornate floral embroidered tapestry hanging above the mantel, textured plaster walls (2252x4000) — P-86, added Nov 15, 2026 via WhatsApp (TJ's own photo); which room's fireplace is TJ's to confirm | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/fireplace-floral-tapestry-wide.jpg |
+| `other/fireplace-floral-tapestry-detail.jpg` | Common areas | straight-on detail of the floral embroidered tapestry above the fireplace — millefleurs field, central medallion, gold borders, fringe (2252x4000) — P-87, added Nov 15, 2026 via WhatsApp (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/fireplace-floral-tapestry-detail.jpg |
+| `other/fireplace-floral-tapestry-angle.jpg` | Common areas | angled detail of the same floral tapestry above the fireplace (2252x4000) — P-88, added Nov 15, 2026 via WhatsApp (TJ's own photo) | Yes | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/other/fireplace-floral-tapestry-angle.jpg |
 
 ## Videos
 
 | File / Link | Room / Area | What it shows | Use on website? |
 |---|---|---|---|
 | _Drone videos to be added — see note above about the 25 MB GitHub web-upload cap_ | Aerial / Drone | | |
+| `pashas-paradise/pashas-paradise-suite-slideshow-clip.mp4` | Pasha's Paradise | 5-second vertical slideshow clip of the suite — canopy bed with rose petals, sitting area, bathroom (478x850, low resolution) — added Nov 15, 2026 via WhatsApp | No — social/reel use only, too low-res for the website | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/pashas-paradise/pashas-paradise-suite-slideshow-clip.mp4 |
+| `zen-garden/zen-garden-grounds-tour-clip.mp4` | Zen Garden / Exterior | 12-second vertical tour clip — garden path, patio, lawn swing, Zen Garden twin beds, terrace (478x850, low resolution) — added Nov 15, 2026 via WhatsApp | No — social/reel use only, too low-res for the website | https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/zen-garden/zen-garden-grounds-tour-clip.mp4 |
 
 ## Counts
 
 - activities/ — 4
 - breakfast/ — 3
 - exterior/ — 11
-- other/ — 16
+- other/ — 23
 - pashas-paradise/ — 12
 - rose-bowl-hide-away/ — 3
 - route-66/ — 6
 - terrace-views/ — 22
 - zen-garden/ — 4
-- **Total: 81 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals; + 2 added Nov 13, 2026 via the Photo Intake form — the members' Lemon Drop imagery, P-72/P-73; + 8 added Nov 14, 2026 via the Photo Intake form, TJ's own photos — P-74 … P-81; 4 earlier photos upgraded to full-res TJ originals the same day — P-03, P-27, P-51, P-54; 1 further intake submission was a watermarked duplicate of P-29 and was not filed)
+- **Total: 88 photos** (42 original + 21 added/upgraded Nov 12, 2026 from Expedia Partner Central + 8 added Nov 12, 2026 via the Photo Intake form, TJ's own photos; a 9th intake submission was an exact duplicate of the P-65 photo and was filed once; 5 low-res .webp files replaced by full-res .jpg originals; + 2 added Nov 13, 2026 via the Photo Intake form — the members' Lemon Drop imagery, P-72/P-73; + 8 added Nov 14, 2026 via the Photo Intake form, TJ's own photos — P-74 … P-81; 4 earlier photos upgraded to full-res TJ originals the same day — P-03, P-27, P-51, P-54; 1 further intake submission was a watermarked duplicate of P-29 and was not filed; + 7 added Nov 15, 2026 via WhatsApp, TJ's own photos — P-82 … P-88, plus 2 low-res vertical video clips filed for social/reel use only)

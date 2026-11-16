@@ -6,18 +6,19 @@ MOOD Pasha's Paradise / WARM exteriors), fidelity check against the original,
 faithful upscale to a 3200px long edge. Originals remain untouched in the repo
 root folders; these live under `production/`. URLs below are jsDelivr CDN links.
 
-**Reference numbers (P-01 … P-81)** match the production gallery exactly —
+**Reference numbers (P-01 … P-88)** match the production gallery exactly —
 use them to request adjustments ("fix P-23"). Order: sections as below,
-files alphabetical within each section (P-64 … P-81 appended at section ends
+files alphabetical within each section (P-64 … P-88 appended at section ends
 so the original numbers never move).
 
-Total: 81 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
+Total: 88 production photos. (P-64 … P-71 added Nov 12, 2026 from TJ's own
 photos via the Photo Intake form — 8 new; a 9th intake submission was an exact
 duplicate of P-65's photo and was filed once. P-72 … P-73 added Nov 13, 2026
 via the Photo Intake form — the members' Lemon Drop imagery. P-74 … P-81
 added Nov 14, 2026 via the Photo Intake form — 8 new; four earlier photos
 (P-03, P-27, P-51, P-54) were upgraded to full-res TJ originals the same day,
-and one further submission was a watermarked duplicate of P-29, not filed.)
+and one further submission was a watermarked duplicate of P-29, not filed. P-82 … P-88
+added Nov 15, 2026 via WhatsApp — 7 new, all Common areas / other.)
 
 ## pashas-paradise — Pasha's Paradise
 
@@ -202,6 +203,20 @@ and one further submission was a watermarked duplicate of P-29, not filed.)
 | | _note: members' Lemon Drop imagery — 2018 location shoot at the property (model @x.kayla.o, shot by @jamesfelixraw, Labor Day 2018; TJ's description: "Member rewards, personalized greeting and lemon drop martini welcome"). True photo; colour-only grade + faithful upscale — NO generative retouch, so the face is untouched. Source 1080×1080. Filed in other/ per TJ (as P-72). Photo Intake submission 12_ | | | | |
 | P-77 | [great-room-wide-doors-fireplace.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/great-room-wide-doors-fireplace.jpg) | 3200×1808 | retouch(WARM)+upscale | `other/great-room-wide-doors-fireplace.jpg` |
 | | _note: faithful; fireplace, sofas and rustic wooden doors unchanged. Photo Intake submission 20 (TJ original, 4608×2592); closest existing library photo is P-56 at dHash 109 — a new shot_ | | | |
+| P-82 | [great-room-glass-dome-figure-chess.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/great-room-glass-dome-figure-chess.jpg) | 1808×3200 | retouch(BRIGHT) | `other/great-room-glass-dome-figure-chess.jpg` |
+| | _note: faithful first try; dome figure, chess set, fireplace and decor unchanged. Source 2252×4000 (TJ original via WhatsApp, Nov 15, 2026), already above master size — resized, no upscale needed_ | | | |
+| P-83 | [carved-cabinet-tribal-artifacts.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/carved-cabinet-tribal-artifacts.jpg) | 1808×3200 | retouch(BRIGHT) | `other/carved-cabinet-tribal-artifacts.jpg` |
+| | _note: faithful; carving, coin belt, necklaces and drape unchanged. Source 2252×4000 (MPO converted to JPEG)_ | | | |
+| P-84 | [bathroom-wayang-puppet-textured-walls.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/bathroom-wayang-puppet-textured-walls.jpg) | 1808×3200 | retouch(BRIGHT) | `other/bathroom-wayang-puppet-textured-walls.jpg` |
+| | _note: faithful; puppet, winged figure and vanity unchanged — but the grade whitened the warm plaster strongly and the small sun ornament's stylised lettering is slightly softened (illegible in the source too). Which bathroom is TJ's to confirm_ | | | |
+| P-85 | [guest-book-inscription-sybil-press-2025.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/guest-book-inscription-sybil-press-2025.jpg) | 2205×3200 | colour-only | `other/guest-book-inscription-sybil-press-2025.jpg` |
+| | _note: colour-only grade ONLY, no generative retouch — handwriting verified word-for-word against the source, perfectly legible; Sybil Press stamp and woodcut facing page unchanged. Testimonial material, not a room photo. Source 2080×3018 (MPO converted to JPEG)_ | | | |
+| P-86 | [fireplace-floral-tapestry-wide.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/fireplace-floral-tapestry-wide.jpg) | 1808×3200 | retouch(BRIGHT) | `other/fireplace-floral-tapestry-wide.jpg` |
+| | _note: faithful; tapestry structure, medallions and fringe intact, walls whitened by the grade. Which room's fireplace is TJ's to confirm_ | | | |
+| P-87 | [fireplace-floral-tapestry-detail.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/fireplace-floral-tapestry-detail.jpg) | 1802×3200 | colour-only (FALLBACK) | `other/fireplace-floral-tapestry-detail.jpg` |
+| | _note: FALLBACK — retouch rejected twice on fidelity (1st attempt redrew the central medallion; retry rearranged field flowers at stitch level). Master is the colour-graded original, pattern verified stitch-for-stitch identical_ | | | |
+| P-88 | [fireplace-floral-tapestry-angle.jpg](https://cdn.jsdelivr.net/gh/thadweghub/patrician-assets@main/production/other/fireplace-floral-tapestry-angle.jpg) | 1808×3200 | retouch(BRIGHT) | `other/fireplace-floral-tapestry-angle.jpg` |
+| | _note: faithful; centre medallion flower slightly more saturated in the retouch, noted. Source 2252×4000_ | | | |
 
 ## breakfast — Breakfast & Dining
 
